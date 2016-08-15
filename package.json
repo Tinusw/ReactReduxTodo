@@ -1,7 +1,7 @@
 {
-  "name": "redux-tutorial",
+  "name": "reduxTodo",
   "version": "0.0.1",
-  "description": "a todo app that you'd never want to use",
+  "description": "pew pew pew lazers",
   "main": "index.js",
   "scripts": {
     "test": " ",
@@ -10,7 +10,7 @@
   "keywords": [
     "test"
   ],
-  "author": "Zach Silveira",
+  "author": "Tinus",
   "license": "ISC",
   "dependencies": {
     "immutable": "^3.7.5",
